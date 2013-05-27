@@ -1,4 +1,4 @@
-== Issue Description
+## Issue Description
 
 This app demonstrates an issue that may be related to:
 
